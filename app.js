@@ -16,7 +16,7 @@ if (idade >= 18) {
 
 
 console.log("Exercício 2 – Estrutura Condicional (switch)")
-let dia = Number(prompt("Informe um número referente ao dia da semna: "))
+let dia = Number(prompt("Informe um número referente ao dia da semana: "))
 
 switch (dia) {
     case 1:
